@@ -1,6 +1,5 @@
 This application is part of a larger tutorial I am undertaking to master the Angular Front End Framework.
 
-
 Misc.  Notes:
 VS Code Website and Video Tutorials:
 https://code.visualstudio.com/docs/getstarted/introvideos
