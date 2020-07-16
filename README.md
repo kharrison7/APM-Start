@@ -13,7 +13,6 @@ https://github.com/angular/angular-cli
 Angular Getting Started:
 https://angular.io/guide/quickstart
 
-
 Downloaded starter files:
 https://github.com/DeborahK/Angular-GettingStarted
 APM Final shows code for final application.
