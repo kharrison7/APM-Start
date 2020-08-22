@@ -16,11 +16,9 @@ Downloaded starter files:
 https://github.com/DeborahK/Angular-GettingStarted
 APM Final shows code for final application.
 
-
 APM Folder holds the starter files.
 
 Be sure to use npm install within the APM-Start Folder
-
 
 To install latest npm:
 npm install npm@latest -g
