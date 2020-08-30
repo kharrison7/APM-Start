@@ -6,7 +6,6 @@ https://code.visualstudio.com/docs/getstarted/introvideos
 
 Can open terminal in VS Code by selecting View then Terminal
 
-
 Angular CLI (to make a quick angular application):
 https://github.com/angular/angular-cli
 
