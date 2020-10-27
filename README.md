@@ -22,6 +22,7 @@ Be sure to use npm install within the APM-Start Folder
 To install latest npm:
 npm install npm@latest -g
 
+
 To create a gitignore and avoid uploading modules files:
 git rm -r --cached node_modules
 git commit -m 'Remove the now ignored directory node_modules'
