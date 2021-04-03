@@ -15,8 +15,7 @@ https://angular.io/guide/quickstart
 Downloaded starter files:
 https://github.com/DeborahK/Angular-GettingStarted
 APM Final shows code for final application.
-
-
+s
 APM Folder holds the starter files.
 Be sure to use npm install within the APM-Start Folder
 
